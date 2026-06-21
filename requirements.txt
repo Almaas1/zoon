@@ -1,1 +1,4 @@
 geopy
+
+psycopg2-binary
+pandas
